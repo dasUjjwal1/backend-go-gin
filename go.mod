@@ -1,4 +1,4 @@
-module payroll-go-gin
+module backend-go-gin
 
 go 1.22.4
 
